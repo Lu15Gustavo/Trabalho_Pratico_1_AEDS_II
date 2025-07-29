@@ -3,9 +3,6 @@
 *.out
 *.app
 
-# Arquivos de dados (opcional - remova se quiser versionar)
-*.dat
-
 # Arquivos temporários
 *.tmp
 *.temp
@@ -22,7 +19,6 @@ build/
 bin/
 obj/
 
-# IDE
+# IDE - apenas configurações específicas
 .vscode/settings.json
 .vscode/launch.json
-.vscode/tasks.json
