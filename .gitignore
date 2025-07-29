@@ -1,0 +1,28 @@
+# Executáveis
+*.exe
+*.out
+*.app
+
+# Arquivos de dados (opcional - remova se quiser versionar)
+*.dat
+
+# Arquivos temporários
+*.tmp
+*.temp
+
+# Arquivos de log
+*.log
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Pastas de build
+build/
+bin/
+obj/
+
+# IDE
+.vscode/settings.json
+.vscode/launch.json
+.vscode/tasks.json
